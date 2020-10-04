@@ -1,0 +1,21 @@
+true
+true
+true
+true
+98 67 55 45 
+false
+true
+false
+55
+98
+98 67 55 *45 
+3
+4
+true
+true
+Error in Insert: IllegalArgumentException raised
+Error in line:	Page 3 of 5
+98 67 55 *45 32 84 
+Error in Insert: IllegalArgumentException raised
+Error in line:	Insert
+Error in line:	hih
